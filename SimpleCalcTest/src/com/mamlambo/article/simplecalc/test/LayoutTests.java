@@ -30,6 +30,8 @@
  */
 
 package com.mamlambo.article.simplecalc.test;
+
+
 import android.graphics.Rect;
 import android.test.ActivityInstrumentationTestCase2;
 import android.view.View;
